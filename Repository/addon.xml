@@ -2,7 +2,7 @@
 <addons>
 <addon id="plugin.video.Vnormus"                                                                                                                                    
 	   name="ספורט"                      
-	   version="1.0.2"                                                                                                                                        
+	   version="1.0.3"                                                                                                                                        
 	   provider-name="Vnormus">
 	   <requires>
     <import addon="script.module.urlresolver"/>
