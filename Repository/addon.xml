@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
 <addon id="plugin.video.Vnormus"                                                                                                                                    
-	   name="ספורט"                      
-	   version="1.0.3"                                                                                                                                        
+	   name="Vnormus"                      
+	   version="1.0.4"                                                                                                                                        
 	   provider-name="Vnormus">
 	   <requires>
     <import addon="script.module.urlresolver"/>
@@ -13,8 +13,8 @@
         <provides>video</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
-    <summary lang="he">ערוצי ספורט</summary>
-    <description lang="he">ערוצי ספורט</description>
+    <summary lang="he"></summary>
+    <description lang="he">ערוצי טלוויזיה</description>
     <platform>all</platform>
   </extension>
 </addon>
