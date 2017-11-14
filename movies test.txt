@@ -1,6 +1,0 @@
-<category>
-<category_name>name="סרטים"&icon=" "&fanart=" "
-</category_name>
-
-<item>name="סולומוניקו"&link="https://drive.google.com/file/d/0B4Eo5TpvfXhJMHhCQURpaG4wenc/edit"&icon=" "&fanart=" "&plot=" "
-</item>
