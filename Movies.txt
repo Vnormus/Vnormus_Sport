@@ -1,0 +1,39 @@
+﻿<category>
+<category_name>name="סרטים מדובבים"&icon="https://www.iconexperience.com/_img/o_collection_png/green_dark_grey/512x512/plain/movies.png"&fanart="http://www.theshillongtimes.com/wp-content/uploads/2017/05/film-institute.jpg"</category_name>
+<category-2>
+<item>name="מכוניות 3"&link="https://www.rapidvideo.com/v/FLE70HD7HX"&icon="http://www.booknet.co.il/imgs/site/prod/3800016684b.jpg"&fanart=" "&plot=" "&imdbid=" "&year=" "&data=" "</item>
+</category-2>
+<category-2>
+<item>name="מואנה"&link="http://www.myfile.co.il/view/0c74e60fc48a7618"&icon="https://2.bp.blogspot.com/-okmPHMSRH3k/WO0HtungoVI/AAAAAAAAPTg/1fMxWnGSDusA6W7nO7Vd0H5WqJu4V3zWQCLcB/s1600/100000x100000-999.jpg"&fanart=" "&plot=" "&imdbid=" "&year=" "&data=" "</item>
+</category-2>
+<category-2>
+<item>name="בייבי בוס"&link="http://www.myfile.co.il/view/72bc9b741bf51d08"&icon="http://www.seret.co.il/images/movies/TheBabyBoss/TheBabyBoss1.jpg"&fanart=" "&plot=" "&imdbid=" "&year=" "&data=" "</item>
+</category-2>
+<category-2>
+<item>name="גולשים על הירח"&link="http://www.myfile.co.il/view/d489adf399e554e9"&icon="http://www.seret.co.il/images/movies/CapturetheFlag/CapturetheFlag1.jpg"&fanart=" "&plot=" "&imdbid=" "&year=" "&data=" "</item>
+</category-2>
+<category-2>
+<item>name="טרולים"&link="http://www.myfile.co.il/view/137a2cbcc3641ea4"&icon="http://www.seret.co.il/images/movies/Trolls/Trolls1.jpg"&fanart=" "&plot=" "&imdbid=" "&year=" "&data=" "</item>
+</category-2>
+<category-2>
+<item>name="חסידודס"&link="http://www.myfile.co.il/view/a1643f5735874d53"&icon="https://www.2bmommy.com/wp-content/uploads/2017/09/%D7%97%D7%A1%D7%99%D7%93%D7%95%D7%93%D7%A1-%D7%91%D7%A2%D7%91%D7%A8%D7%99%D7%AA.jpg"&fanart=" "&plot=" "&imdbid=" "&year=" "&data=" "</item>
+</category-2>
+<category-2>
+<item>name="החיים הסודיים של חיות המחמד"&link="http://www.myfile.co.il/view/12539332a834f5b8"&icon="http://www.seret.co.il/images/movies/TheSecretLifeofPets/TheSecretLifeofPets1.jpg"&fanart=" "&plot=" "&imdbid=" "&year=" "&data=" "</item>
+</category-2>
+<category-2>
+<item>name="מוצאים את דורי"&link="http://www.myfile.co.il/view/a611a1d008273bf1"&icon="https://upload.wikimedia.org/wikipedia/he/5/55/%D7%9E%D7%95%D7%A6%D7%90%D7%99%D7%9D_%D7%90%D7%AA_%D7%93%D7%95%D7%A8%D7%99_%D7%9B%D7%A8%D7%96%D7%94_%D7%A2%D7%91%D7%A8%D7%99%D7%AA_%D7%9E%D7%A7%D7%95%D7%A8%D7%99%D7%AA.jpg"&fanart=" "&plot=" "&imdbid=" "&year=" "&data=" "</item>
+</category-2>
+<category-2>
+<item>name="זוטרופוליס"&link="http://www.myfile.co.il/view/06dfd16fe69ed20f"&icon="https://upload.wikimedia.org/wikipedia/he/4/4b/%D7%96%D7%95%D7%98%D7%A8%D7%95%D7%A4%D7%95%D7%9C%D7%99%D7%A1_%D7%9B%D7%A8%D7%96%D7%94_%D7%A2%D7%91%D7%A8%D7%99%D7%AA.jpeg"&fanart=" "&plot=" "&imdbid=" "&year=" "&data=" "</item>
+</category-2>
+<category-2>
+<item>name="אנגרי בירדס"&link="http://www.myfile.co.il/view/64d9ceb365756f4c"&icon="http://www.seret.co.il/images/movies/TheAngryBirdsMovie/TheAngryBirdsMovie1.jpg"&fanart=" "&plot=" "&imdbid=" "&year=" "&data=" "</item>
+</category-2>
+<category-2>
+<item>name="קונג פו פנדה 2"&link="http://www.myfile.co.il/view/c4e524763b65eb3b"&icon="http://www.nmcunited.co.il/Images/dynamic/movies/C01_KFP2-Front.jpg"&fanart=" "&plot=" "&imdbid=" "&year=" "&data=" "</item>
+</category-2>
+<category-2>
+<item>name="הקול בראש"&link="http://www.myfile.co.il/view/3d391b3ca728d333"&icon="http://www.seret.co.il/images/movies/InsideOut/InsideOut1.jpg"&fanart=" "&plot=" "&imdbid=" "&year=" "&data=" "</item>
+</category-2>
+</category>
