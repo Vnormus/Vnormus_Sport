@@ -37,3 +37,6 @@
 <item>name="הקול בראש"&link="http://www.myfile.co.il/view/3d391b3ca728d333"&icon="http://www.seret.co.il/images/movies/InsideOut/InsideOut1.jpg"&fanart=" "&plot=" "&imdbid=" "&year=" "&data=" "</item>
 </category-2>
 </category>
+<item>name="בית"&link="www.fileflyer.com/view/EXcxGCE"&icon="http://www.seret.co.il/images/movies/Home/Home1.jpg"&fanart=" "&plot=" "&imdbid=" "&year=" "&data=" "</item>
+</category-2>
+<category>
