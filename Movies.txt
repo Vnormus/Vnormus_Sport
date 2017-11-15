@@ -37,6 +37,9 @@
 <item>name="הקול בראש"&link="http://www.myfile.co.il/view/3d391b3ca728d333"&icon="http://www.seret.co.il/images/movies/InsideOut/InsideOut1.jpg"&fanart=" "&plot=" "&imdbid=" "&year=" "&data=" "</item>
 </category-2>
 </category>
+<category>
+<category_name>name="x"&icon=" "&fanart=" "</category_name>
+<category-2>
 <item>name="כוכב הקופים- המלחמה"&link="http://www.myfile.co.il/view/28c66d126dd403f3"&icon="http://www.seret.co.il/images/movies/WarofthePlanetoftheApes/WarofthePlanetoftheApes1.jpg"&fanart=" "&plot=" "&imdbid=" "&year=" "&data=" "</item>
 </category-2>
 </category>
