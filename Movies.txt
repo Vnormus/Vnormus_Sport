@@ -142,6 +142,6 @@
 <item>name="צעצוע של סיפור 2"&link="www.myfile.co.il/view/45ec7e1bacbf128c"&icon="http://funloty.com/upload/img/image_57f0b8fbd0cb1_57f0b8fbd0cfb.jpeg"&fanart=" "&plot=" "&imdbid=" "&year=" "&data=" "</item>
 </category-2>
 <category-2>
-<item>name="צעצוע שך סיפור 3"&link="uptobox.com/ndx4ugav3xrx"&icon="http://www.seret.co.il/images/movies/ToyStory3/ToyStory31.jpg"&fanart=" "&plot=" "&imdbid=" "&year=" "&data=" "</item>
+<item>name="צעצוע של סיפור 3"&link="vidto.me/vd6kkn3y71mg.html"&icon="http://www.seret.co.il/images/movies/ToyStory3/ToyStory31.jpg"&fanart=" "&plot=" "&imdbid=" "&year=" "&data=" "</item>
 </category-2>
 </category>
