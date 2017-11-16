@@ -38,7 +38,7 @@
 </category-2>
 </category>
 <category>
-<category_name>name="סרטים מתורגמים"&icon=" "&fanart=" "</category_name>
+<category_name>name="מתורגמים"&icon=" "&fanart=" "</category_name>
 <category-2>
 <item>name="כוכב הקופים- המלחמה"&link="http://www.myfile.co.il/view/28c66d126dd403f3"&icon="http://www.seret.co.il/images/movies/WarofthePlanetoftheApes/WarofthePlanetoftheApes1.jpg"&fanart=" "&plot=" "&imdbid=" "&year=" "&data=" "</item>
 </category-2>
