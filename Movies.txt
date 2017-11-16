@@ -142,6 +142,39 @@
 <item>name="צעצוע של סיפור 2"&link="http://www.myfile.co.il/view/45ec7e1bacbf128c"&icon="http://funloty.com/upload/img/image_57f0b8fbd0cb1_57f0b8fbd0cfb.jpeg"&fanart=" "&plot=" "&imdbid=" "&year=" "&data=" "</item>
 </category-2>
 <category-2>
-<item>name="צעצוע שך סיפור 3"&link="http://uptobox.com/ndx4ugav3xrx"&icon="http://www.seret.co.il/images/movies/ToyStory3/ToyStory31.jpg"&fanart=" "&plot=" "&imdbid=" "&year=" "&data=" "</item>
+<item>name="צעצוע של סיפור 3"&link="http://uptobox.com/ndx4ugav3xrx"&icon="http://www.seret.co.il/images/movies/ToyStory3/ToyStory31.jpg"&fanart=" "&plot=" "&imdbid=" "&year=" "&data=" "</item>
+</category-2>
+<category-2>
+<item>name="הפינגווינים ממדגסקר"&link="http://www.myfile.co.il/view/55a60b44a35f238a"&icon="http://funloty.com/upload/img/image_575d0528ee174_575d0528ee1c1.jpeg"&fanart=" "&plot=" "&imdbid=" "&year=" "&data=" "</item>
+</category-2>
+<category-2>
+<item>name="אגדה עם כנפיים"&link="http://www.myfile.co.il/view/4308ac5007054568"&icon="http://funloty.com/upload/img/image_575d050ea156a_575d050ea15bd.jpeg"&fanart=" "&plot=" "&imdbid=" "&year=" "&data=" "</item>
+</category-2>
+<category-2>
+<item>name="מפלצת של בית"&link="http://www.myfile.co.il/view/e737b1c8a6d44a70"&icon="http://funloty.com/upload/img/image_575d050a9921e_575d050a99271.jpeg"&fanart=" "&plot=" "&imdbid=" "&year=" "&data=" "</item>
+</category-2>
+<category-2>
+<item>name="כוח ג'י"&link="http://www.myfile.co.il/view/5382e08257d42f7b"&icon="http://www.f-up.co.il/uploads/2011_4/1303034604_original.jpg"&fanart=" "&plot=" "&imdbid=" "&year=" "&data=" "</item>
+</category-2>
+<category-2>
+<item>name="הדינוזאור הטוב"&link="http://www.myfile.co.il/view/6d3927dc5e"&icon="http://funloty.com/upload/img/image_575cdf7e4abbf_575cdf7e4ac19.jpeg"&fanart=" "&plot=" "&imdbid=" "&year=" "&data=" "</item>
+</category-2>
+<category-2>
+<item>name="לעוף על הזמן"&link="http://www.myfile.co.il/view/df0b841eedfc352b"&icon="http://funloty.com/upload/img/image_575cd87a43c52_575cd87a43ca5.jpeg"&fanart=" "&plot=" "&imdbid=" "&year=" "&data=" "</item>
+</category-2>
+<category-2>
+<item>name="נוקאאוט צ'יקן"&link="http://www.myfile.co.il/view/d8e5c868775715b3"&icon="http://funloty.com/upload/img/image_575cd70b80cb5_575cd70b80d02.jpeg"&fanart=" "&plot=" "&imdbid=" "&year=" "&data=" "</item>
+</category-2>
+<category-2>
+<item>name="הדבורה מאיה"&link="http://www.myfile.co.il/view/b659838c7fae7db5"&icon="http://www.seret.co.il/images/movies/MayatheBeeMovie/MayatheBeeMovie1.jpg"&fanart=" "&plot=" "&imdbid=" "&year=" "&data=" "</item>
+</category-2>
+<category-2>
+<item>name="שישה גיבורים"&link="http://www.myfile.co.il/view/711ed590d0"&icon="http://funloty.com/upload/img/image_575cd6fec79ac_575cd6fec7a00.jpeg"&fanart=" "&plot=" "&imdbid=" "&year=" "&data=" "</item>
+</category-2>
+<category-2>
+<item>name="קסם של בית"&link="http://www.myfile.co.il/view/59e2c96a9e4368d1"&icon="http://funloty.com/upload/img/image_575cd6fdf1a64_575cd6fdf1aaf.jpeg"&fanart=" "&plot=" "&imdbid=" "&year=" "&data=" "</item>
+</category-2>
+<category-2>
+<item>name="לילו וסטיץ"&link="http://www.myfile.co.il/view/a3b8833f831116aa"&icon="http://funloty.com/upload/img/image_575a3b128e45d_575a3b128e4ac.jpeg"&fanart=" "&plot=" "&imdbid=" "&year=" "&data=" "</item>
 </category-2>
 </category>
