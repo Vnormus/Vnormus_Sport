@@ -1,4 +1,4 @@
-﻿<list_name>name="Root"&icon=" "&fanart=" "&plot=" "</list_name>
+﻿<list_name>name="Vnormus"&icon=" "&fanart=" "&plot=" "</list_name>
 <category>
 <category_name>name="סרטים מדובבים"&icon="https://www.iconexperience.com/_img/o_collection_png/green_dark_grey/512x512/plain/movies.png"&fanart="http://www.theshillongtimes.com/wp-content/uploads/2017/05/film-institute.jpg"&plot=" "&data=@@ @@</category_name>
 <category-2>
