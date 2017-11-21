@@ -1,0 +1,166 @@
+﻿<list_name>name="Vnormus"&icon=" "&fanart=" "&plot=" "</list_name>
+<category>
+<category_name>name="סרטים מדובבים"&icon="https://img1.etsystatic.com/122/0/12743092/il_570xN.1020321723_6kpu.jpg"&fanart="http://startupwhale.com/wp-content/uploads/2017/08/Cartoon-Streaming-Sites.jpg"&plot=" "&data=@@ @@</category_name>
+<category-2>
+<item>name="מכוניות 3"&link="https://www.rapidvideo.com/v/FLE70HD7HX"&icon="http://www.booknet.co.il/imgs/site/prod/3800016684b.jpg"&fanart="https://image.tmdb.org/t/p/w533_and_h300_bestv2/6M4uK8futkQZcRryd0KjPFTwCSQ.jpg"&plot=" "&imdbid=" "&year=" "&data=@@{"title":"מכוניות 3","Season": " ","Episode": " ","OriginalTitle":"מכוניות 3"}@@</item>
+</category-2>
+<category-2>
+<item>name=" מואנה"&link=" http://www.myfile.co.il/view/0c74e60fc48a7618"&icon=" https://2.bp.blogspot.com/-okmPHMSRH3k/WO0HtungoVI/AAAAAAAAPTg/1fMxWnGSDusA6W7nO7Vd0H5WqJu4V3zWQCLcB/s1600/100000x100000-999.jpg"&fanart=" https://image.tmdb.org/t/p/w533_and_h300_bestv2/gyDpttDrIS5fJkzQ5u4sSLGqSgX.jpg"&plot=" "&imdbid=" "&year=" "&data=@@{"title":" מואנה","Season": " ","Episode": " ","OriginalTitle":" מואנה"}@@</item>
+</category-2>
+<category-2>
+<item>name=" בייבי בוס"&link=" http://www.myfile.co.il/view/72bc9b741bf51d08"&icon=" http://www.seret.co.il/images/movies/TheBabyBoss/TheBabyBoss1.jpg"&fanart=" https://image.tmdb.org/t/p/w533_and_h300_bestv2/4IrZC1uuaDpGScO4TDyEe4E4bq2.jpg"&plot=" "&imdbid=" "&year=" "&data=@@{"title":" בייבי בוס","Season": " ","Episode": " ","OriginalTitle":" בייבי בוס"}@@</item>
+</category-2>
+<category-2>
+<item>name=" גולשים על הירח"&link=" http://www.myfile.co.il/view/d489adf399e554e9"&icon=" http://www.seret.co.il/images/movies/CapturetheFlag/CapturetheFlag1.jpg"&fanart=" https://image.tmdb.org/t/p/w533_and_h300_bestv2/lvNZwKr35vDKXgPa3JM2iznbrqh.jpg"&plot=" "&imdbid=" "&year=" "&data=@@{"title":" גולשים על הירח","Season": " ","Episode": " ","OriginalTitle":" גולשים על הירח"}@@</item>
+</category-2>
+<category-2>
+<item>name=" טרולים"&link=" http://www.myfile.co.il/view/137a2cbcc3641ea4"&icon=" http://www.seret.co.il/images/movies/Trolls/Trolls1.jpg"&fanart=" https://image.tmdb.org/t/p/w533_and_h300_bestv2/rsqgeBVoirEmlHpNsLr00u5sctk.jpg"&plot=" "&imdbid=" "&year=" "&data=@@{"title":" טרולים","Season": " ","Episode": " ","OriginalTitle":" טרולים"}@@</item>
+</category-2>
+<category-2>
+<item>name=" חסידודס"&link=" http://www.myfile.co.il/view/a1643f5735874d53"&icon=" https://www.2bmommy.com/wp-content/uploads/2017/09/%D7%97%D7%A1%D7%99%D7%93%D7%95%D7%93%D7%A1-%D7%91%D7%A2%D7%91%D7%A8%D7%99%D7%AA.jpg"&fanart=" https://image.tmdb.org/t/p/w533_and_h300_bestv2/7qnQKh1vsmkSLm4YGhicmtgZk5M.jpg"&plot=" "&imdbid=" "&year=" "&data=@@{"title":" חסידודס","Season": " ","Episode": " ","OriginalTitle":" חסידודס"}@@</item>
+</category-2>
+<category-2>
+<item>name="החיים הסודיים של חיות המחמד"&link=" http://www.myfile.co.il/view/12539332a834f5b8"&icon=" http://www.seret.co.il/images/movies/TheSecretLifeofPets/TheSecretLifeofPets1.jpg"&fanart=" https://image.tmdb.org/t/p/w533_and_h300_bestv2/3DrUqTAPjriEasoGrz5G8sPJtDU.jpg"&plot=" "&imdbid=" "&year=" "&data=@@{"title":"החיים הסודיים של חיות המחמד","Season": " ","Episode": " ","OriginalTitle":"החיים הסודיים של חיות המחמד"}@@</item>
+</category-2>
+<category-2>
+<item>name=" מוצאים את דורי"&link=" http://www.myfile.co.il/view/a611a1d008273bf1"&icon=" https://upload.wikimedia.org/wikipedia/he/5/55/%D7%9E%D7%95%D7%A6%D7%90%D7%99%D7%9D_%D7%90%D7%AA_%D7%93%D7%95%D7%A8%D7%99_%D7%9B%D7%A8%D7%96%D7%94_%D7%A2%D7%91%D7%A8%D7%99%D7%AA_%D7%9E%D7%A7%D7%95%D7%A8%D7%99%D7%AA.jpg"&fanart=" https://image.tmdb.org/t/p/w533_and_h300_bestv2/iWRKYHTFlsrxQtfQqFOQyceL83P.jpg"&plot=" "&imdbid=" "&year=" "&data=@@{"title":" מוצאים את דורי","Season": " ","Episode": " ","OriginalTitle":" מוצאים את דורי"}@@</item>
+</category-2>
+<category-2>
+<item>name=" זוטרופוליס"&link=" http://www.myfile.co.il/view/06dfd16fe69ed20f"&icon=" https://upload.wikimedia.org/wikipedia/he/4/4b/%D7%96%D7%95%D7%98%D7%A8%D7%95%D7%A4%D7%95%D7%9C%D7%99%D7%A1_%D7%9B%D7%A8%D7%96%D7%94_%D7%A2%D7%91%D7%A8%D7%99%D7%AA.jpeg"&fanart=" https://image.tmdb.org/t/p/w533_and_h300_bestv2/bEY0XH2oTD9E1PcEKdjMKuKJomc.jpg"&plot=" "&imdbid=" "&year=" "&data=@@{"title":" זוטרופוליס","Season": " ","Episode": " ","OriginalTitle":" זוטרופוליס"}@@</item>
+</category-2>
+<category-2>
+<item>name=" אנגרי בירדס"&link=" http://www.myfile.co.il/view/64d9ceb365756f4c"&icon=" http://www.seret.co.il/images/movies/TheAngryBirdsMovie/TheAngryBirdsMovie1.jpg"&fanart=" https://image.tmdb.org/t/p/w533_and_h300_bestv2/4mgLGtKQQ0uRisxKNncUAsxHKYJ.jpg"&plot=" "&imdbid=" "&year=" "&data=@@{"title":" אנגרי בירדס","Season": " ","Episode": " ","OriginalTitle":" אנגרי בירדס"}@@</item>
+</category-2>
+<category-2>
+<item>name=" קונג פו פנדה 2"&link=" http://www.myfile.co.il/view/c4e524763b65eb3b"&icon=" http://www.nmcunited.co.il/Images/dynamic/movies/C01_KFP2-Front.jpg"&fanart=" https://image.tmdb.org/t/p/w533_and_h300_bestv2/eyiE1vuizMKVu8MoZkg2xsramFl.jpg"&plot=" "&imdbid=" "&year=" "&data=@@{"title":" קונג פו פנדה 2","Season": " ","Episode": " ","OriginalTitle":" קונג פו פנדה 2"}@@</item>
+</category-2>
+<category-2>
+<item>name=" הקול בראש"&link=" http://www.myfile.co.il/view/3d391b3ca728d333"&icon=" http://www.seret.co.il/images/movies/InsideOut/InsideOut1.jpg"&fanart=" https://image.tmdb.org/t/p/w533_and_h300_bestv2/szytSpLAyBh3ULei3x663mAv5ZT.jpg"&plot=" "&imdbid=" "&year=" "&data=@@{"title":" הקול בראש","Season": " ","Episode": " ","OriginalTitle":" הקול בראש"}@@</item>
+</category-2>
+<category-2>
+<item>name=" הממלכה הסודית"&link=" http://www.myfile.co.il/view/7ab2b4b8072b202b"&icon=" https://upload.wikimedia.org/wikipedia/he/b/be/Epic_%282013_film%29_poster.jpg"&fanart=" https://image.tmdb.org/t/p/w533_and_h300_bestv2/v6w2o3ji8aVLph6zNgR5yDGQfmS.jpg"&plot=" "&imdbid=" "&year=" "&data=@@{"title":" הממלכה הסודית","Season": " ","Episode": " ","OriginalTitle":" הממלכה הסודית"}@@</item>
+</category-2>
+<category-2>
+<item>name=" מעבר ליער"&link=" http://www.myfile.co.il/view/2f543b9ffc62bd2f"&icon=" http://media.israel-music.com/images/76222232.jpg"&fanart=" https://image.tmdb.org/t/p/w533_and_h300_bestv2/opgPGMo86L7uwIcJAHcIxn24EWP.jpg"&plot=" "&imdbid=" "&year=" "&data=@@{"title":" מעבר ליער","Season": " ","Episode": " ","OriginalTitle":" מעבר ליער"}@@</item>
+</category-2>
+<category-2>
+<item>name=" קונג פו פנדה 3"&link=" http://www.myfile.co.il/view/acea4eb1797dbf6f"&icon=" https://serethd.net/wp-content/uploads/2016/02/Kung_Fu_Panda_3_poster.jpg"&fanart=" https://image.tmdb.org/t/p/w533_and_h300_bestv2/7uHuwbu3wYPhf7qUECxGdMsGXUL.jpg"&plot=" "&imdbid=" "&year=" "&data=@@{"title":" קונג פו פנדה 3","Season": " ","Episode": " ","OriginalTitle":" קונג פו פנדה 3"}@@</item>
+</category-2>
+<category-2>
+<item>name=" רובוטס"&link=" http://www.myfile.co.il/view/9e6417a26cc21ae8"&icon=" https://upload.wikimedia.org/wikipedia/he/c/cc/%D7%A8%D7%95%D7%91%D7%95%D7%98%D7%A1.jpg"&fanart=" https://image.tmdb.org/t/p/w533_and_h300_bestv2/x26ENDCC7GNKni7aX1NA28SnBCv.jpg"&plot=" "&imdbid=" "&year=" "&data=@@{"title":" רובוטס","Season": " ","Episode": " ","OriginalTitle":" רובוטס"}@@</item>
+</category-2>
+<category-2>
+<item>name=" לשיר"&link=" http://www.myfile.co.il/view/4f625e4f2d607c6d"&icon=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdiFH3ZnuB2FXbZ2ijhbM0HzEtdQguQUhlygTr5Ezt07XoeLj5"&fanart=" https://image.tmdb.org/t/p/w533_and_h300_bestv2/wf9C6iqY9tXG7TrQDg3E4Flgap7.jpg"&plot=" "&imdbid=" "&year=" "&data=@@{"title":" לשיר","Season": " ","Episode": " ","OriginalTitle":" לשיר"}@@</item>
+</category-2>
+<category-2>
+<item>name=" עידן הקרח - מסלול התנגשות"&link=" http://www.myfile.co.il/view/fd8953b5192f0c66"&icon=" https://tv4kids.tk/wp-content/uploads/2016/11/14732283_1782226838718165_1344638527947567731_n.jpg"&fanart=" https://image.tmdb.org/t/p/w533_and_h300_bestv2/e9eOhHXPYqRfo8AffmikHZfjgOQ.jpg"&plot=" "&imdbid=" "&year=" "&data=@@{"title":" עידן הקרח - מסלול התנגשות","Season": " ","Episode": " ","OriginalTitle":" עידן הקרח - מסלול התנגשות"}@@</item>
+</category-2>
+<category-2>
+<item>name=" נורם בעיר הגדולה"&link=" http://www.myfile.co.il/view/cd01d76c18f2cd85"&icon="https://image.tmdb.org/t/p/original/zdoc1wwElz62BNahHQWT4tfe5yu.jpg"&fanart=" https://image.tmdb.org/t/p/w533_and_h300_bestv2/y5kZ5zca9rXVkwehDImbsEl80u5.jpg"&plot=" "&imdbid=" "&year=" "&data=@@{"title":" נורם בעיר הגדולה","Season": " ","Episode": " ","OriginalTitle":" נורם בעיר הגדולה"}@@</item>
+</category-2>
+<category-2>
+<item>name=" גנוב על המיניונים"&link=" http://www.myfile.co.il/view/bf3c925ab2"&icon=" https://upload.wikimedia.org/wikipedia/he/thumb/2/26/Despicable_Me_2.jpg/250px-Despicable_Me_2.jpg"&fanart=" https://image.tmdb.org/t/p/w533_and_h300_bestv2/5XqVxqQIts9MqytLAELO43NuqQi.jpg"&plot=" "&imdbid=" "&year=" "&data=@@{"title":" גנוב על המיניונים","Season": " ","Episode": " ","OriginalTitle":" גנוב על המיניונים"}@@</item>
+</category-2>
+<category-2>
+<item>name=" גנוב על הירח"&link=" http://www.myfile.co.il/view/38f707bc3a"&icon=" https://static.terof.net/f182bb3452a3b908b5ed9763b62fa9f3/thumbnail.jpg"&fanart=" https://image.tmdb.org/t/p/w533_and_h300_bestv2/hA109AGMAUvQoNSflyBCwW2aq9e.jpg"&plot=" "&imdbid=" "&year=" "&data=@@{"title":" גנוב על הירח","Season": " ","Episode": " ","OriginalTitle":" גנוב על הירח"}@@</item>
+</category-2>
+<category-2>
+<item>name=" מוצאים את נמו"&link=" http://www.myfile.co.il/view/1965e06e072d9ee5"&icon=" https://upload.wikimedia.org/wikipedia/he/9/94/%D7%9E%D7%95%D7%A6%D7%90%D7%99%D7%9D_%D7%90%D7%AA_%D7%A0%D7%9E%D7%95_%D7%9B%D7%A8%D7%96%D7%94_%D7%A9%D7%A0%D7%99%D7%94.png"&fanart=" https://image.tmdb.org/t/p/w533_and_h300_bestv2/n2vIGWw4ezslXjlP0VNxkp9wqwU.jpg"&plot=" "&imdbid=" "&year=" "&data=@@{"title":" מוצאים את נמו","Season": " ","Episode": " ","OriginalTitle":" מוצאים את נמו"}@@</item>
+</category-2>
+<category-2>
+<item>name=" צעצוע של סיפור"&link=" http://www.myfile.co.il/view/0014f93f1a9edc8e"&icon=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYYuH-izrqRI1uJZow0jZnqFnYrPS1sEq9V3FZFAgQDcWyU8Wg"&fanart=" https://image.tmdb.org/t/p/w533_and_h300_bestv2/dji4Fm0gCDVb9DQQMRvAI8YNnTz.jpg"&plot=" "&imdbid=" "&year=" "&data=@@{"title":" צעצוע של סיפור","Season": " ","Episode": " ","OriginalTitle":" צעצוע של סיפור"}@@</item>
+</category-2>
+<category-2>
+<item>name="ריו"&link=" http://www.myfile.co.il/view/7ed99cf0d788ae4d"&icon=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQto275IKiVlqxdkvF8jALwl8CylUP9kn-vP6PTo1yLPRLVFdq-"&fanart=" https://image.tmdb.org/t/p/w533_and_h300_bestv2/odbEuhGUgSkeWWD1sPoylXTZMUa.jpg"&plot=" "&imdbid=" "&year=" "&data=@@{"title":"ריו","Season": " ","Episode": " ","OriginalTitle":"ריו"}@@</item>
+</category-2>
+<category-2>
+<item>name=" ריו 2"&link=" http://www.myfile.co.il/view/a108642f25c812ce"&icon=" https://tv4kids.tk/wp-content/uploads/2016/08/u-8771731943.jpg"&fanart=" https://image.tmdb.org/t/p/w533_and_h300_bestv2/gmz9EXbUXW6obmRY2fASYU9hdJA.jpg"&plot=" "&imdbid=" "&year=" "&data=@@{"title":" ריו 2","Season": " ","Episode": " ","OriginalTitle":" ריו 2"}@@</item>
+</category-2>
+<category-2>
+<item>name=" בית"&link=" http://www.myfile.co.il/view/f02d9cd214e6a2ac"&icon=" http://www.seret.co.il/images/movies/Home/Home1.jpg"&fanart=" https://image.tmdb.org/t/p/w533_and_h300_bestv2/6xjBbCZp3bXFps5ET1Y4zfq6bws.jpg"&plot=" "&imdbid=" "&year=" "&data=@@{"title":" בית","Season": " ","Episode": " ","OriginalTitle":" בית"}@@</item>
+</category-2>
+<category-2>
+<item>name=" משפחת סופר על"&link=" http://www.myfile.co.il/view/8ab4c959c69e62b6"&icon=" https://upload.wikimedia.org/wikipedia/he/thumb/5/54/%D7%9E%D7%A9%D7%A4%D7%97%D7%AA_%D7%A1%D7%95%D7%A4%D7%A8-%D7%A2%D7%9C_%D7%9B%D7%A8%D7%96%D7%94_%D7%A2%D7%91%D7%A8%D7%99%D7%AA_%D7%9E%D7%A7%D7%95%D7%A8%D7%99%D7%AA.png/250px-%D7%9E%D7%A9%D7%A4%D7%97%D7%AA_%D7%A1%D7%95%D7%A4%D7%A8-%D7%A2%D7%9C_%D7%9B%D7%A8%D7%96%D7%94_%D7%A2%D7%91%D7%A8%D7%99%D7%AA_%D7%9E%D7%A7%D7%95%D7%A8%D7%99%D7%AA.png"&fanart=" https://image.tmdb.org/t/p/w533_and_h300_bestv2/iGknrkEyebPFmpQoLGy5L0utVxz.jpg"&plot=" "&imdbid=" "&year=" "&data=@@{"title":" משפחת סופר על","Season": " ","Episode": " ","OriginalTitle":" משפחת סופר על"}@@</item>
+</category-2>
+<category-2>
+<item>name=" ראלף ההורס"&link=" http://www.myfile.co.il/view/8c98a1f71a8f8803"&icon=" https://upload.wikimedia.org/wikipedia/he/9/92/Wreckitralphposter_jpeg.jpeg"&fanart=" https://image.tmdb.org/t/p/w533_and_h300_bestv2/1HjKgkIdR2qw8ihM6MTxgdST2kM.jpg"&plot=" "&imdbid=" "&year=" "&data=@@{"title":" ראלף ההורס","Season": " ","Episode": " ","OriginalTitle":" ראלף ההורס"}@@</item>
+</category-2>
+<category-2>
+<item>name=" כלבים בחלל"&link=" http://www.myfile.co.il/view/036123225b5a3e79"&icon=" http://www.seret.co.il/images/movies/SpaceDogs/SpaceDogs1.jpg"&fanart=" https://image.tmdb.org/t/p/w533_and_h300_bestv2/7f1gvDWdnajjN1GXxYB7kk2fuyY.jpg"&plot=" "&imdbid=" "&year=" "&data=@@{"title":" כלבים בחלל","Season": " ","Episode": " ","OriginalTitle":" כלבים בחלל"}@@</item>
+</category-2>
+<category-2>
+<item>name=" דגים נגד תרנגולות"&link=" http://www.myfile.co.il/view/84c898b40ed61024"&icon=" https://static.terof.net/1a15da6a831fde84c473f7fa9a15c2c4/thumbnail.jpg"&fanart=" https://image.tmdb.org/t/p/w533_and_h300_bestv2/5jDwliMfXwIqi5WsSuQJoRhtzyi.jpg"&plot=" "&imdbid=" "&year=" "&data=@@{"title":" דגים נגד תרנגולות","Season": " ","Episode": " ","OriginalTitle":" דגים נגד תרנגולות"}@@</item>
+</category-2>
+<category-2>
+<item>name=" הדרקון הראשון שלי"&link=" http://www.myfile.co.il/view/6ceb9208aaf8ceb5"&icon="https://image.tmdb.org/t/p/original/b4iMNX6yVAQx6mwLmaozna99BtJ.jpg"&fanart=" https://image.tmdb.org/t/p/w533_and_h300_bestv2/nMulOcoR6HAahofkcuo4mtA0o9j.jpg"&plot=" "&imdbid=" "&year=" "&data=@@{"title":" הדרקון הראשון שלי","Season": " ","Episode": " ","OriginalTitle":" הדרקון הראשון שלי"}@@</item>
+</category-2>
+<category-2>
+<item>name=" מטוסים 2"&link="http://www.myfile.co.il/view/865d2313dcbdb0f2"&icon="https://tv4kids.tk/wp-content/uploads/2016/08/u-5900452930.jpg"&fanart="https://image.tmdb.org/t/p/w533_and_h300_bestv2/3MET6hEfk8n8i0KFRq9BHnJq7ju.jpg"&plot=" "&imdbid=" "&year=" "&data=@@{"title":" מטוסים 2","Season": " ","Episode": " ","OriginalTitle":" מטוסים 2"}@@</item>
+</category-2>
+<category-2>
+<item>name=" תזיזו את הרגליים 2"&link=" http://www.myfile.co.il/view/5baa3f49c7f124e2"&icon=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZiGBJwPLBx6Iw9KjaRBopNVpeaBVxcg3_DLG4nlKtpWN7sQ2r"&fanart=" https://image.tmdb.org/t/p/w533_and_h300_bestv2/2ItHN3UMJyWmRdAoaXmdiffjiGR.jpg"&plot=" "&imdbid=" "&year=" "&data=@@{"title":" תזיזו את הרגליים 2","Season": " ","Episode": " ","OriginalTitle":" תזיזו את הרגליים 2"}@@</item>
+</category-2>
+<category-2>
+<item>name=" מכוניות 2"&link=" http://www.myfile.co.il/view/bdfdb501b04e527b"&icon=" http://www.seret.co.il/images/movies/Cars2/Cars21.jpg"&fanart=" https://image.tmdb.org/t/p/w533_and_h300_bestv2/fKuCCHcqvkWIvoGYVwSounBJdRr.jpg"&plot=" "&imdbid=" "&year=" "&data=@@{"title":" מכוניות 2","Season": " ","Episode": " ","OriginalTitle":" מכוניות 2"}@@</item>
+</category-2>
+<category-2>
+<item>name=" מלכת השלג"&link=" http://www.myfile.co.il/view/f013f6c69301a513"&icon=" https://tv4kids.tk/wp-content/uploads/2016/08/u-6409.jpg"&fanart=" https://image.tmdb.org/t/p/w533_and_h300_bestv2/gOh1gSPrXL7pudFPXAJX8vYSrIW.jpg"&plot=" "&imdbid=" "&year=" "&data=@@{"title":" מלכת השלג","Season": " ","Episode": " ","OriginalTitle":" מלכת השלג"}@@</item>
+</category-2>
+<category-2>
+<item>name=" לשבור את הקרח"&link=" http://www.myfile.co.il/view/2ac1119b7a9dce74"&icon="https://image.tmdb.org/t/p/original/n6DM3JD7lWKRL5TwCP9eBiPthWr.jpg"&fanart=" https://image.tmdb.org/t/p/w533_and_h300_bestv2/cAhCDpAq80QCeQvHytY9JkBalpH.jpg"&plot=" "&imdbid=" "&year=" "&data=@@{"title":" לשבור את הקרח","Season": " ","Episode": " ","OriginalTitle":" לשבור את הקרח"}@@</item>
+</category-2>
+<category-2>
+<item>name=" מפלצת של מלון "&link=" http://www.myfile.co.il/view/a8e4fb5481"&icon=" http://funloty.com/upload/img/image_57f0d5f905939_57f0d5f905986.jpeg"&fanart=" https://image.tmdb.org/t/p/w533_and_h300_bestv2/sKcifsR7Is0EqayW72IheP243dZ.jpg"&plot=" "&imdbid=" "&year=" "&data=@@{"title":" מפלצת של מלון ","Season": " ","Episode": " ","OriginalTitle":" מפלצת של מלון "}@@</item>
+</category-2>
+<category-2>
+<item>name=" מדגסקר 2"&link=" http://www.myfile.co.il/view/63007fc14c52d0f6"&icon=" http://funloty.com/upload/img/image_57f0d5eaa7228_57f0d5eaa727b.jpeg"&fanart=" https://image.tmdb.org/t/p/w533_and_h300_bestv2/kVUNfrTW9sOwqGp7cmhdEU8NNJO.jpg"&plot=" "&imdbid=" "&year=" "&data=@@{"title":" מדגסקר 2","Season": " ","Episode": " ","OriginalTitle":" מדגסקר 2"}@@</item>
+</category-2>
+<category-2>
+<item>name=" הלורקס"&link=" http://www.myfile.co.il/view/ba4400c78013b83d"&icon=" http://funloty.com/upload/img/image_57f0c4e677f0d_57f0c4e677f59.jpeg"&fanart=" https://image.tmdb.org/t/p/w533_and_h300_bestv2/zqxppITElipS8tNmZ7sjfrnFLK5.jpg"&plot=" "&imdbid=" "&year=" "&data=@@{"title":" הלורקס","Season": " ","Episode": " ","OriginalTitle":" הלורקס"}@@</item>
+</category-2>
+<category-2>
+<item>name=" מפלצות בע'מ"&link=" http://www.myfile.co.il/view/26d0683be24f127f"&icon="https://image.tmdb.org/t/p/w220_and_h330_bestv2/8B73ajZBL17QEE7lsXk3jYQty8O.jpg"&fanart=" https://image.tmdb.org/t/p/w533_and_h300_bestv2/wJOHzjTDhnEUyP0Q8gyp6ggvL4A.jpg"&plot=" "&imdbid=" "&year=" "&data=@@{"title":" מפלצות בע'מ","Season": " ","Episode": " ","OriginalTitle":" מפלצות בע'מ"}@@</item>
+</category-2>
+<category-2>
+<item>name=" הדרקון הראשון שלי 2"&link=" http://www.myfile.co.il/view/3c3d25280c2fe7cb"&icon=" http://funloty.com/upload/img/image_57f0c4e6c3516_57f0c4e6c355c.jpeg"&fanart=" https://image.tmdb.org/t/p/w533_and_h300_bestv2/2s1aTIr23r3lfR8t2Wa56lp5ahk.jpg"&plot=" "&imdbid=" "&year=" "&data=@@{"title":" הדרקון הראשון שלי 2","Season": " ","Episode": " ","OriginalTitle":" הדרקון הראשון שלי 2"}@@</item>
+</category-2>
+<category-2>
+<item>name=" עידן הקרח - יבשת בתנועה"&link=" http://www.myfile.co.il/view/4816e8c4804cdf32"&icon=" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFiF8jfYvF34wzO6MAUj2Snsp9aTHR2I8CRUBBhZY2ZAyljhgr"&fanart=" https://image.tmdb.org/t/p/w533_and_h300_bestv2/tZGKKeWGejt63jiSdi7MTAjCFE9.jpg"&plot=" "&imdbid=" "&year=" "&data=@@{"title":" עידן הקרח - יבשת בתנועה","Season": " ","Episode": " ","OriginalTitle":" עידן הקרח - יבשת בתנועה"}@@</item>
+</category-2>
+<category-2>
+<item>name=" צעצוע של סיפור 2"&link=" http://www.myfile.co.il/view/45ec7e1bacbf128c"&icon=" http://funloty.com/upload/img/image_57f0b8fbd0cb1_57f0b8fbd0cfb.jpeg"&fanart=" https://image.tmdb.org/t/p/w533_and_h300_bestv2/9Kjxr4VCU0Y4DAuXkzR2moAy7DK.jpg"&plot=" "&imdbid=" "&year=" "&data=@@{"title":" צעצוע של סיפור 2","Season": " ","Episode": " ","OriginalTitle":" צעצוע של סיפור 2"}@@</item>
+</category-2>
+<category-2>
+<item>name=" לילו וסטיץ"&link=" http://www.myfile.co.il/view/a3b8833f831116aa"&icon=" http://funloty.com/upload/img/image_575a3b128e45d_575a3b128e4ac.jpeg"&fanart=" https://image.tmdb.org/t/p/w533_and_h300_bestv2/u8vDwjzjKfWsMhAYjF9q6YZX1On.jpg"&plot=" "&imdbid=" "&year=" "&data=@@{"title":" לילו וסטיץ","Season": " ","Episode": " ","OriginalTitle":" לילו וסטיץ"}@@</item>
+</category-2>
+<category-2>
+<item>name=" הפינגווינים ממדגסקר"&link=" http://www.myfile.co.il/view/55a60b44a35f238a"&icon=" http://funloty.com/upload/img/image_575d0528ee174_575d0528ee1c1.jpeg"&fanart=" https://image.tmdb.org/t/p/w533_and_h300_bestv2/epjImFzSZDTDHPLSBGpgyC6nU5s.jpg"&plot=" "&imdbid=" "&year=" "&data=@@{"title":" הפינגווינים ממדגסקר","Season": " ","Episode": " ","OriginalTitle":" הפינגווינים ממדגסקר"}@@</item>
+</category-2>
+<category-2>
+<item>name=" אגדה עם כנפיים"&link=" http://www.myfile.co.il/view/4308ac5007054568"&icon="https://image.tmdb.org/t/p/original/wk4CoVYaK9MSH9WKGIhA6PuOWVu.jpg"&fanart=" https://image.tmdb.org/t/p/w533_and_h300_bestv2/v65I3MaGboStCWKwTA7NWtiSuQF.jpg"&plot=" "&imdbid=" "&year=" "&data=@@{"title":" אגדה עם כנפיים","Season": " ","Episode": " ","OriginalTitle":" אגדה עם כנפיים"}@@</item>
+</category-2>
+<category-2>
+<item>name=" מפלצת של בית"&link=" http://www.myfile.co.il/view/e737b1c8a6d44a70"&icon=" http://funloty.com/upload/img/image_575d050a9921e_575d050a99271.jpeg"&fanart=" https://image.tmdb.org/t/p/w533_and_h300_bestv2/xCPq0OXDs7LyFTzOCxanjkyr36l.jpg"&plot=" "&imdbid=" "&year=" "&data=@@{"title":" מפלצת של בית","Season": " ","Episode": " ","OriginalTitle":" מפלצת של בית"}@@</item>
+</category-2>
+<category-2>
+<item>name=" כוח ג'י"&link=" http://www.myfile.co.il/view/5382e08257d42f7b"&icon="https://image.tmdb.org/t/p/original/ktanbNfIX1s42terB60kTiwbBgk.jpg"&fanart=" https://image.tmdb.org/t/p/w533_and_h300_bestv2/dnBiiPKJnIKb1e8BcDo3cicdjFG.jpg"&plot=" "&imdbid=" "&year=" "&data=@@{"title":" כוח ג'י","Season": " ","Episode": " ","OriginalTitle":" כוח ג'י"}@@</item>
+</category-2>
+<category-2>
+<item>name=" הדינוזאור הטוב"&link=" http://www.myfile.co.il/view/6d3927dc5e"&icon=" http://funloty.com/upload/img/image_575cdf7e4abbf_575cdf7e4ac19.jpeg"&fanart=" https://image.tmdb.org/t/p/w533_and_h300_bestv2/cY7vbAMOhv217L51FlxjJPLh1gR.jpg"&plot=" "&imdbid=" "&year=" "&data=@@{"title":" הדינוזאור הטוב","Season": " ","Episode": " ","OriginalTitle":" הדינוזאור הטוב"}@@</item>
+</category-2>
+<category-2>
+<item>name=" לעוף על הזמן"&link=" http://www.myfile.co.il/view/df0b841eedfc352b"&icon=" http://funloty.com/upload/img/image_575cd87a43c52_575cd87a43ca5.jpeg"&fanart="https://image.tmdb.org/t/p/w533_and_h300_bestv2/9PeU2GCnKCfH9eQ4mmWDgZcXYLI.jpg"&plot=" "&imdbid=" "&year=" "&data=@@{"title":" לעוף על הזמן","Season": " ","Episode": " ","OriginalTitle":" לעוף על הזמן"}@@</item>
+</category-2>
+<category-2>
+<item>name=" נוקאאוט צ'יקן"&link=" http://www.myfile.co.il/view/d8e5c868775715b3"&icon=" http://funloty.com/upload/img/image_575cd70b80cb5_575cd70b80d02.jpeg"&fanart=" https://image.tmdb.org/t/p/w533_and_h300_bestv2/wiBfLIvQqsYm1s1Dszq0XPvCEJ6.jpg"&plot=" "&imdbid=" "&year=" "&data=@@{"title":" נוקאאוט צ'יקן","Season": " ","Episode": " ","OriginalTitle":" נוקאאוט צ'יקן"}@@</item>
+</category-2>
+<category-2>
+<item>name="הדבורה מאיה"&link=" http://www.myfile.co.il/view/b659838c7fae7db5"&icon=" http://www.seret.co.il/images/movies/MayatheBeeMovie/MayatheBeeMovie1.jpg"&fanart=" https://image.tmdb.org/t/p/w533_and_h300_bestv2/gTHuNNqF3r2GLm34Ojd3ZXpq2IW.jpg"&plot=" "&imdbid=" "&year=" "&data=@@{"title":"הדבורה מאיה","Season": " ","Episode": " ","OriginalTitle":"הדבורה מאיה"}@@</item>
+</category-2>
+<category-2>
+<item>name=" שישה גיבורים"&link=" http://www.myfile.co.il/view/711ed590d0"&icon=" http://funloty.com/upload/img/image_575cd6fec79ac_575cd6fec7a00.jpeg"&fanart=" https://image.tmdb.org/t/p/w533_and_h300_bestv2/lv3NrraY2VRK6ImwNU3vfOPZyTi.jpg"&plot=" "&imdbid=" "&year=" "&data=@@{"title":" שישה גיבורים","Season": " ","Episode": " ","OriginalTitle":" שישה גיבורים"}@@</item>
+</category-2>
+<category-2>
+<item>name=" קסם של בית"&link=" http://www.myfile.co.il/view/59e2c96a9e4368d1"&icon=" http://funloty.com/upload/img/image_575cd6fdf1a64_575cd6fdf1aaf.jpeg"&fanart=" https://image.tmdb.org/t/p/original/9SYPd5wrJMGuXO4rSexxnUZ8mHz.jpg"&plot=" "&imdbid=" "&year=" "&data=@@{"title":" קסם של בית","Season": " ","Episode": " ","OriginalTitle":" קסם של בית"}@@</item>
+</category-2>
+</category>
