@@ -1,4 +1,4 @@
-﻿<list_name>name="Root"&icon=" "&fanart=" "&plot=" "</list_name>Root
+﻿<list_name>name="Vnormus"&icon=" "&fanart=" "&plot=" "</list_name>
 <category>
 <category_name>name="סרטים מדובבים"&icon="https://img1.etsystatic.com/122/0/12743092/il_570xN.1020321723_6kpu.jpg"&fanart="http://startupwhale.com/wp-content/uploads/2017/08/Cartoon-Streaming-Sites.jpg"&plot=" "&data=@@ @@</category_name>
 <category-2>
